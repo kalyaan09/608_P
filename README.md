@@ -1,7 +1,6 @@
-# Movie Recommendation and k-NN Visualization
+# Movie Recommendation and KNN Visualization
 
-This repository contains two Jupyter notebooks focused on implementing a **movie recommendation system** and visualizing the **k-Nearest Neighbors (k-NN)** algorithm. The project demonstrates how movie recommendation works (using KNN).
-
+This repository contains two Jupyter notebooks focused on implementing a **movie recommendation system** and visualizing the **k-Nearest Neighbors (KNN)** algorithm.
 ---
 
 ## 📂 Repository Structure
@@ -16,7 +15,7 @@ This repository contains two Jupyter notebooks focused on implementing a **movie
    - Includes:
      - Data preprocessing steps.
      - Training a KNN model for recommendations.
-     - Example outputs and analysis.
+     - Example outputs.
 
 2. **`knn_viz.ipynb`**
    - Visualizes how the k-Nearest Neighbors algorithm works.
@@ -28,7 +27,7 @@ This project requires the following Python libraries:
 
 - `numpy`
 - `pandas`
-- `scikit-learn`
+- `from sklearn.neighbors import NearestNeighbors`
 - `matplotlib`
 - `seaborn`
 - `scipy.sparse import csr_matrix`
