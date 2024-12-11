@@ -8,14 +8,14 @@ This repository contains two Jupyter notebooks focused on implementing a **movie
 
 ### **Notebooks**
 1. **`608_p.ipynb`**
-   - Implements a movie recommendation system using collaborative filtering.
+   - Implements a movie recommendation system using KNN.
    - Features:
      - Movie-based recommendations (content-based filtering).
      - User-based recommendations (collaborative filtering).
      - 
    - Includes:
      - Data preprocessing steps.
-     - Training a k-NN model for recommendations.
+     - Training a KNN model for recommendations.
      - Example outputs and analysis.
 
 2. **`knn_viz.ipynb`**
